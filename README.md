@@ -1,18 +1,29 @@
-## Getting Started
+# 📱 Projeto iPhone em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto simula as funcionalidades principais do iPhone usando os conceitos de Programação Orientada a Objetos (POO) e modelagem UML.
 
-## Folder Structure
+## 🚀 Funcionalidades
 
-The workspace contains two folders by default, where:
+- 🎵 Reprodutor Musical
+- 📞 Aparelho Telefônico
+- 🌐 Navegador de Internet
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🧠 Tecnologias Usadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java 17+
+- Programação Orientada a Objetos
+- UML (Diagrama de Classes)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📂 Estrutura
 
-## Dependency Management
+- `ReprodutorMusical`, `AparelhoTelefonico`, `NavegadorInternet` → interfaces
+- `iPhone` → classe que implementa todas as interfaces
+- `Main` → classe de teste
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📌 UML
+
+![Diagrama UML](./UML/diagrama-classes.png)
+
+## 👨‍💻 Autor
+
+Vinicius Gonçalves da Silva Pita
